@@ -174,9 +174,7 @@
     "reversed_meaning": "Unfinished business or delays.",
     "advice_upright": "Celebrate your progress.",
     "advice_reversed": "Tie up loose ends before moving on."
-  }
-]
-
+  },
   {
     "name": "The Fool",
     "keywords": ["beginnings", "trust", "innocence"],
@@ -184,7 +182,7 @@
     "reversed_meaning": "Hesitation, fear of the unknown, or acting without thinking.",
     "advice_upright": "Take a small step forward even if you don’t feel fully ready.",
     "advice_reversed": "Slow down and check in with yourself before moving ahead.",
-    ,
+},
 {
   "name": "The Magician",
   "keywords": ["manifestation", "skill", "power"],
@@ -224,7 +222,7 @@
   "reversed_meaning": "Breaking free from old patterns or expectations.",
   "advice_upright": "Lean on routines or mentors that support you.",
   "advice_reversed": "Do things your own way, even if it’s unconventional.",
-  ,
+},
 {
   "name": "Ace of Wands",
   "keywords": ["inspiration", "potential", "new energy"],
