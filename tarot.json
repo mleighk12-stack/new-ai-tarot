@@ -5,6 +5,48 @@
     "upright_meaning": "A fresh start, openness, and trusting the path ahead.",
     "reversed_meaning": "Hesitation, fear of the unknown, or acting without thinking.",
     "advice_upright": "Take a small step forward even if you don’t feel fully ready.",
-    "advice_reversed": "Slow down and check in with yourself before moving ahead."
+    "advice_reversed": "Slow down and check in with yourself before moving ahead.",
+    ,
+{
+  "name": "The Magician",
+  "keywords": ["manifestation", "skill", "power"],
+  "upright_meaning": "You have the tools and ability to create what you want.",
+  "reversed_meaning": "Self-doubt, scattered energy, or not using your potential.",
+  "advice_upright": "Focus your energy on one clear intention today.",
+  "advice_reversed": "Slow down and reconnect with your confidence before taking action."
+},
+{
+  "name": "The High Priestess",
+  "keywords": ["intuition", "inner voice", "mystery"],
+  "upright_meaning": "Trust your intuition and listen to what isn’t being said.",
+  "reversed_meaning": "Ignoring your intuition or feeling disconnected from yourself.",
+  "advice_upright": "Take quiet time to hear your inner guidance.",
+  "advice_reversed": "Pause before reacting; your emotions need space to settle."
+},
+{
+  "name": "The Empress",
+  "keywords": ["nurturing", "abundance", "creativity"],
+  "upright_meaning": "Growth, comfort, and emotional nourishment.",
+  "reversed_meaning": "Neglecting your needs or feeling drained.",
+  "advice_upright": "Give yourself softness and care today.",
+  "advice_reversed": "Set boundaries and refill your own cup first."
+},
+{
+  "name": "The Emperor",
+  "keywords": ["structure", "leadership", "stability"],
+  "upright_meaning": "Take control and create order in your life.",
+  "reversed_meaning": "Feeling powerless or resisting structure.",
+  "advice_upright": "Make a clear plan and follow through.",
+  "advice_reversed": "Loosen your grip and allow flexibility."
+},
+{
+  "name": "The Hierophant",
+  "keywords": ["tradition", "learning", "guidance"],
+  "upright_meaning": "Seek wisdom from trusted sources or established practices.",
+  "reversed_meaning": "Breaking free from old patterns or expectations.",
+  "advice_upright": "Lean on routines or mentors that support you.",
+  "advice_reversed": "Do things your own way, even if it’s unconventional."
+}
+
   }
 ]
