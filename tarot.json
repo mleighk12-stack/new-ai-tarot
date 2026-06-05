@@ -335,7 +335,72 @@
   "upright_meaning": "Strong leadership and clear direction.",
   "reversed_meaning": "Controlling behavior or lack of follow-through.",
   "advice_upright": "Lead with clarity and inspiration.",
-  "advice_reversed": "Step back and reassess your approach."
+  "advice_reversed": "Step back and reassess your approach.",
+  ,
+{
+  "name": "Ace of Cups",
+  "keywords": ["emotion", "intuition", "new feelings"],
+  "upright_meaning": "A fresh emotional beginning or opening of the heart.",
+  "reversed_meaning": "Blocked emotions or difficulty expressing feelings.",
+  "advice_upright": "Let yourself feel what’s rising within you.",
+  "advice_reversed": "Give yourself space to process before opening up."
+},
+{
+  "name": "Two of Cups",
+  "keywords": ["connection", "partnership", "harmony"],
+  "upright_meaning": "Mutual understanding, attraction, or emotional balance.",
+  "reversed_meaning": "Miscommunication or imbalance in a relationship.",
+  "advice_upright": "Nurture the connections that feel supportive.",
+  "advice_reversed": "Communicate gently and seek clarity."
+},
+{
+  "name": "Three of Cups",
+  "keywords": ["friendship", "celebration", "support"],
+  "upright_meaning": "Joyful connection and shared happiness.",
+  "reversed_meaning": "Feeling left out or disconnected socially.",
+  "advice_upright": "Spend time with people who lift your spirit.",
+  "advice_reversed": "Reach out to someone you trust."
+},
+{
+  "name": "Four of Cups",
+  "keywords": ["apathy", "contemplation", "withdrawal"],
+  "upright_meaning": "A need for reflection or emotional reset.",
+  "reversed_meaning": "Renewed interest or emotional awakening.",
+  "advice_upright": "Take time to understand what you truly want.",
+  "advice_reversed": "Say yes to something new that feels right."
+},
+{
+  "name": "Five of Cups",
+  "keywords": ["loss", "sadness", "disappointment"],
+  "upright_meaning": "Focusing on what went wrong or what’s missing.",
+  "reversed_meaning": "Healing, acceptance, or moving forward.",
+  "advice_upright": "Let yourself feel, but don’t stay stuck there.",
+  "advice_reversed": "Look toward what’s still possible."
+},
+{
+  "name": "Six of Cups",
+  "keywords": ["nostalgia", "memories", "innocence"],
+  "upright_meaning": "Comfort in familiar people or memories.",
+  "reversed_meaning": "Living too much in the past.",
+  "advice_upright": "Reconnect with something that brings simple joy.",
+  "advice_reversed": "Focus on the present instead of old patterns."
+},
+{
+  "name": "Seven of Cups",
+  "keywords": ["choices", "illusion", "fantasy"],
+  "upright_meaning": "Many options or unclear desires.",
+  "reversed_meaning": "Clarity after confusion.",
+  "advice_upright": "Ground yourself before making decisions.",
+  "advice_reversed": "Choose the option that feels most aligned."
+},
+{
+  "name": "Eight of Cups",
+  "keywords": ["walking away", "transition", "searching"],
+  "upright_meaning": "Leaving something behind to seek deeper meaning.",
+  "reversed_meaning": "Fear of letting go or staying too long.",
+  "advice_upright": "Trust your need for emotional growth.",
+  "advice_reversed": "Release what’s draining you, gently and
+
 }
 
 }
