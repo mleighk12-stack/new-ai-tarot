@@ -1,4 +1,182 @@
-[
+[[
+  {
+    "name": "The Fool",
+    "keywords": ["beginnings", "trust", "innocence"],
+    "upright_meaning": "A fresh start, openness, and trusting the path ahead.",
+    "reversed_meaning": "Hesitation, fear of the unknown, or acting without thinking.",
+    "advice_upright": "Take a small step forward even if you don’t feel fully ready.",
+    "advice_reversed": "Slow down and check in with yourself before moving ahead."
+  },
+  {
+    "name": "The Magician",
+    "keywords": ["manifestation", "skill", "power"],
+    "upright_meaning": "You have the tools and ability to create what you want.",
+    "reversed_meaning": "Self-doubt, scattered energy, or not using your potential.",
+    "advice_upright": "Focus your energy on one clear intention today.",
+    "advice_reversed": "Reconnect with your confidence before taking action."
+  },
+  {
+    "name": "The High Priestess",
+    "keywords": ["intuition", "inner voice", "mystery"],
+    "upright_meaning": "Trust your intuition and listen to what isn’t being said.",
+    "reversed_meaning": "Ignoring your intuition or feeling disconnected from yourself.",
+    "advice_upright": "Take quiet time to hear your inner guidance.",
+    "advice_reversed": "Pause before reacting; your emotions need space to settle."
+  },
+  {
+    "name": "The Empress",
+    "keywords": ["nurturing", "abundance", "creativity"],
+    "upright_meaning": "Growth, comfort, and emotional nourishment.",
+    "reversed_meaning": "Neglecting your needs or feeling drained.",
+    "advice_upright": "Give yourself softness and care today.",
+    "advice_reversed": "Set boundaries and refill your own cup first."
+  },
+  {
+    "name": "The Emperor",
+    "keywords": ["structure", "leadership", "stability"],
+    "upright_meaning": "Take control and create order in your life.",
+    "reversed_meaning": "Feeling powerless or resisting structure.",
+    "advice_upright": "Make a clear plan and follow through.",
+    "advice_reversed": "Loosen your grip and allow flexibility."
+  },
+  {
+    "name": "The Hierophant",
+    "keywords": ["tradition", "learning", "guidance"],
+    "upright_meaning": "Seek wisdom from trusted sources or established practices.",
+    "reversed_meaning": "Breaking free from old patterns or expectations.",
+    "advice_upright": "Lean on routines or mentors that support you.",
+    "advice_reversed": "Do things your own way, even if it’s unconventional."
+  },
+  {
+    "name": "The Lovers",
+    "keywords": ["connection", "choices", "alignment"],
+    "upright_meaning": "Harmony, unity, and meaningful choices.",
+    "reversed_meaning": "Misalignment, imbalance, or difficult decisions.",
+    "advice_upright": "Choose what aligns with your values.",
+    "advice_reversed": "Reconnect with yourself before making decisions."
+  },
+  {
+    "name": "The Chariot",
+    "keywords": ["determination", "willpower", "direction"],
+    "upright_meaning": "Forward movement through focus and discipline.",
+    "reversed_meaning": "Lack of direction or feeling stuck.",
+    "advice_upright": "Stay focused on your goal and keep moving.",
+    "advice_reversed": "Pause and realign your direction before pushing ahead."
+  },
+  {
+    "name": "Strength",
+    "keywords": ["courage", "patience", "inner power"],
+    "upright_meaning": "Gentle strength and emotional resilience.",
+    "reversed_meaning": "Self-doubt or feeling overwhelmed.",
+    "advice_upright": "Lead with compassion, not force.",
+    "advice_reversed": "Be kind to yourself; you’re carrying too much."
+  },
+  {
+    "name": "The Hermit",
+    "keywords": ["reflection", "solitude", "inner wisdom"],
+    "upright_meaning": "A time for introspection and clarity.",
+    "reversed_meaning": "Isolation or avoiding inner truth.",
+    "advice_upright": "Take quiet time to reconnect with yourself.",
+    "advice_reversed": "Reach out; you don’t have to do everything alone."
+  },
+  {
+    "name": "Wheel of Fortune",
+    "keywords": ["change", "cycles", "destiny"],
+    "upright_meaning": "Life is shifting; embrace the change.",
+    "reversed_meaning": "Feeling stuck or resisting change.",
+    "advice_upright": "Stay flexible and open to new opportunities.",
+    "advice_reversed": "Let go of what you can’t control."
+  },
+  {
+    "name": "Justice",
+    "keywords": ["truth", "balance", "fairness"],
+    "upright_meaning": "Clarity, honesty, and accountability.",
+    "reversed_meaning": "Avoiding responsibility or imbalance.",
+    "advice_upright": "Be honest with yourself and others.",
+    "advice_reversed": "Restore balance before moving forward."
+  },
+  {
+    "name": "The Hanged Man",
+    "keywords": ["pause", "surrender", "new perspective"],
+    "upright_meaning": "A shift in perspective brings clarity.",
+    "reversed_meaning": "Stagnation or resisting necessary change.",
+    "advice_upright": "Let go and allow things to unfold.",
+    "advice_reversed": "Stop forcing things; step back and reassess."
+  },
+  {
+    "name": "Death",
+    "keywords": ["transformation", "endings", "rebirth"],
+    "upright_meaning": "A necessary ending that leads to renewal.",
+    "reversed_meaning": "Holding onto what needs to be released.",
+    "advice_upright": "Allow the old to fall away.",
+    "advice_reversed": "Gently loosen your grip on what’s no longer serving you."
+  },
+  {
+    "name": "Temperance",
+    "keywords": ["balance", "patience", "moderation"],
+    "upright_meaning": "Harmony and steady progress.",
+    "reversed_meaning": "Imbalance or impatience.",
+    "advice_upright": "Take things slowly and stay centered.",
+    "advice_reversed": "Simplify and return to what grounds you."
+  },
+  {
+    "name": "The Devil",
+    "keywords": ["attachment", "temptation", "shadow"],
+    "upright_meaning": "Awareness of unhealthy patterns or attachments.",
+    "reversed_meaning": "Breaking free from limitations.",
+    "advice_upright": "Notice what’s controlling your energy.",
+    "advice_reversed": "Take a small step toward freedom today."
+  },
+  {
+    "name": "The Tower",
+    "keywords": ["upheaval", "revelation", "release"],
+    "upright_meaning": "Sudden change that clears the way for truth.",
+    "reversed_meaning": "Avoiding necessary change.",
+    "advice_upright": "Let what needs to fall, fall.",
+    "advice_reversed": "Prepare gently for change instead of resisting it."
+  },
+  {
+    "name": "The Star",
+    "keywords": ["hope", "healing", "guidance"],
+    "upright_meaning": "Renewal, inspiration, and emotional clarity.",
+    "reversed_meaning": "Doubt or feeling disconnected from hope.",
+    "advice_upright": "Trust that healing is unfolding.",
+    "advice_reversed": "Reconnect with something that brings you peace."
+  },
+  {
+    "name": "The Moon",
+    "keywords": ["intuition", "uncertainty", "emotion"],
+    "upright_meaning": "Listen to your intuition; not everything is clear yet.",
+    "reversed_meaning": "Clarity emerging after confusion.",
+    "advice_upright": "Move gently and trust your instincts.",
+    "advice_reversed": "Let the truth settle before acting."
+  },
+  {
+    "name": "The Sun",
+    "keywords": ["joy", "clarity", "vitality"],
+    "upright_meaning": "Positivity, warmth, and confidence.",
+    "reversed_meaning": "Temporary sadness or low energy.",
+    "advice_upright": "Lean into what feels good and energizing.",
+    "advice_reversed": "Be gentle with yourself; brighter energy is returning."
+  },
+  {
+    "name": "Judgement",
+    "keywords": ["awakening", "reflection", "purpose"],
+    "upright_meaning": "A moment of clarity or self-realization.",
+    "reversed_meaning": "Self-doubt or ignoring a calling.",
+    "advice_upright": "Listen to your inner truth.",
+    "advice_reversed": "Release harsh self-judgment."
+  },
+  {
+    "name": "The World",
+    "keywords": ["completion", "wholeness", "achievement"],
+    "upright_meaning": "A cycle is complete; you’ve grown.",
+    "reversed_meaning": "Unfinished business or delays.",
+    "advice_upright": "Celebrate your progress.",
+    "advice_reversed": "Tie up loose ends before moving on."
+  }
+]
+
   {
     "name": "The Fool",
     "keywords": ["beginnings", "trust", "innocence"],
