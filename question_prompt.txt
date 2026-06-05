@@ -1,0 +1,8 @@
+The user has asked a question. Use the tarot card’s symbolism and meaning to answer it directly.
+
+Provide:
+• a clear interpretation
+• what the card suggests emotionally
+• what the user can do next
+
+Avoid predictions. Keep the tone gentle, warm, and straightforward. Focus on insight, emotional clarity, and simple next steps.
