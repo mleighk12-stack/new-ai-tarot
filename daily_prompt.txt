@@ -1,0 +1,9 @@
+Pull one tarot card from the deck. Randomly choose upright or reversed. Return:
+
+• card name
+• orientation (upright or reversed)
+• keywords
+• short meaning
+• one-sentence summary of the energy of the day
+
+Keep the tone gentle, warm, and straightforward. Avoid predictions. Focus on emotional clarity and simple guidance.
