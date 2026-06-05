@@ -399,7 +399,119 @@
   "upright_meaning": "Leaving something behind to seek deeper meaning.",
   "reversed_meaning": "Fear of letting go or staying too long.",
   "advice_upright": "Trust your need for emotional growth.",
-  "advice_reversed": "Release what’s draining you, gently and slowly."
+  "advice_reversed": "Release what’s draining you, gently and {
+  "name": "Ace of Pentacles",
+  "keywords": ["opportunity", "stability", "prosperity"],
+  "upright_meaning": "A new beginning in finances, work, or stability.",
+  "reversed_meaning": "Missed opportunities or hesitation.",
+  "advice_upright": "Say yes to grounded, practical opportunities.",
+  "advice_reversed": "Slow down and reassess before committing."
+},
+{
+  "name": "Two of Pentacles",
+  "keywords": ["balance", "adaptability", "juggling"],
+  "upright_meaning": "Managing multiple responsibilities with flexibility.",
+  "reversed_meaning": "Overwhelm or imbalance.",
+  "advice_upright": "Prioritize and stay adaptable.",
+  "advice_reversed": "Simplify your commitments."
+},
+{
+  "name": "Three of Pentacles",
+  "keywords": ["teamwork", "skill", "collaboration"],
+  "upright_meaning": "Working well with others and building something meaningful.",
+  "reversed_meaning": "Lack of support or miscommunication.",
+  "advice_upright": "Collaborate and value each person’s strengths.",
+  "advice_reversed": "Clarify expectations and roles."
+},
+{
+  "name": "Four of Pentacles",
+  "keywords": ["security", "control", "holding on"],
+  "upright_meaning": "A desire for stability or protecting resources.",
+  "reversed_meaning": "Letting go or loosening control.",
+  "advice_upright": "Protect what matters without becoming rigid.",
+  "advice_reversed": "Release what you’re gripping too tightly."
+},
+{
+  "name": "Five of Pentacles",
+  "keywords": ["struggle", "lack", "isolation"],
+  "upright_meaning": "Feeling unsupported or going through hardship.",
+  "reversed_meaning": "Recovery and renewed hope.",
+  "advice_upright": "Ask for help; you don’t have to do this alone.",
+  "advice_reversed": "Focus on the support that *is* available."
+},
+{
+  "name": "Six of Pentacles",
+  "keywords": ["generosity", "balance", "support"],
+  "upright_meaning": "Giving and receiving in healthy balance.",
+  "reversed_meaning": "Unequal exchanges or strings attached.",
+  "advice_upright": "Share what you can without overextending.",
+  "advice_reversed": "Set boundaries around giving."
+},
+{
+  "name": "Seven of Pentacles",
+  "keywords": ["patience", "growth", "assessment"],
+  "upright_meaning": "Slow, steady progress and long-term investment.",
+  "reversed_meaning": "Frustration with delays.",
+  "advice_upright": "Trust the process; growth takes time.",
+  "advice_reversed": "Adjust your approach if something isn’t working."
+},
+{
+  "name": "Eight of Pentacles",
+  "keywords": ["skill", "practice", "dedication"],
+  "upright_meaning": "Focused effort and improving your craft.",
+  "reversed_meaning": "Burnout or lack of motivation.",
+  "advice_upright": "Stay committed to your growth.",
+  "advice_reversed": "Rest before pushing further."
+},
+{
+  "name": "Nine of Pentacles",
+  "keywords": ["independence", "comfort", "success"],
+  "upright_meaning": "Enjoying the rewards of your hard work.",
+  "reversed_meaning": "Self-worth issues or overworking.",
+  "advice_upright": "Celebrate your achievements.",
+  "advice_reversed": "Value yourself beyond productivity."
+},
+{
+  "name": "Ten of Pentacles",
+  "keywords": ["legacy", "security", "family"],
+  "upright_meaning": "Long-term stability and support.",
+  "reversed_meaning": "Family tension or financial instability.",
+  "advice_upright": "Build toward what lasts.",
+  "advice_reversed": "Address instability with honesty and care."
+},
+{
+  "name": "Page of Pentacles",
+  "keywords": ["learning", "opportunity", "focus"],
+  "upright_meaning": "A new opportunity for growth or study.",
+  "reversed_meaning": "Lack of follow-through or distraction.",
+  "advice_upright": "Stay curious and committed.",
+  "advice_reversed": "Refocus your energy on what matters."
+},
+{
+  "name": "Knight of Pentacles",
+  "keywords": ["routine", "responsibility", "steadiness"],
+  "upright_meaning": "Consistency and reliability lead to progress.",
+  "reversed_meaning": "Stagnation or stubbornness.",
+  "advice_upright": "Keep going steadily and patiently.",
+  "advice_reversed": "Try a new approach if you’re stuck."
+},
+{
+  "name": "Queen of Pentacles",
+  "keywords": ["nurturing", "practicality", "comfort"],
+  "upright_meaning": "Grounded care and resourcefulness.",
+  "reversed_meaning": "Neglecting your own needs.",
+  "advice_upright": "Create stability through gentle routines.",
+  "advice_reversed": "Take time to nurture yourself."
+},
+{
+  "name": "King of Pentacles",
+  "keywords": ["abundance", "leadership", "security"],
+  "upright_meaning": "Confidence in your ability to create stability.",
+  "reversed_meaning": "Overcontrol or material focus.",
+  "advice_upright": "Lead with patience and grounded wisdom.",
+  "advice_reversed": "Loosen your grip and trust the process."
+}
+
   }
 
 
