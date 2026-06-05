@@ -223,8 +223,123 @@
   "upright_meaning": "Seek wisdom from trusted sources or established practices.",
   "reversed_meaning": "Breaking free from old patterns or expectations.",
   "advice_upright": "Lean on routines or mentors that support you.",
-  "advice_reversed": "Do things your own way, even if it’s unconventional."
+  "advice_reversed": "Do things your own way, even if it’s unconventional.",
+  ,
+{
+  "name": "Ace of Wands",
+  "keywords": ["inspiration", "potential", "new energy"],
+  "upright_meaning": "A spark of motivation or a new creative beginning.",
+  "reversed_meaning": "Delays, blocked inspiration, or hesitation.",
+  "advice_upright": "Say yes to the idea that excites you.",
+  "advice_reversed": "Give yourself time; the spark will return."
+},
+{
+  "name": "Two of Wands",
+  "keywords": ["planning", "decisions", "vision"],
+  "upright_meaning": "You’re ready to expand and consider new possibilities.",
+  "reversed_meaning": "Fear of the unknown or staying too comfortable.",
+  "advice_upright": "Take the next step toward your bigger vision.",
+  "advice_reversed": "Start small if the big leap feels overwhelming."
+},
+{
+  "name": "Three of Wands",
+  "keywords": ["progress", "momentum", "expansion"],
+  "upright_meaning": "Your efforts are beginning to pay off.",
+  "reversed_meaning": "Delays or frustration with slow progress.",
+  "advice_upright": "Stay patient; your work is moving forward.",
+  "advice_reversed": "Adjust your expectations and keep going."
+},
+{
+  "name": "Four of Wands",
+  "keywords": ["celebration", "stability", "joy"],
+  "upright_meaning": "A moment of harmony, support, or accomplishment.",
+  "reversed_meaning": "Tension at home or feeling disconnected.",
+  "advice_upright": "Celebrate small wins and enjoy connection.",
+  "advice_reversed": "Create space for peace in your environment."
+},
+{
+  "name": "Five of Wands",
+  "keywords": ["conflict", "competition", "tension"],
+  "upright_meaning": "Minor disagreements or scattered energy.",
+  "reversed_meaning": "Avoiding conflict or wanting resolution.",
+  "advice_upright": "Stay grounded and don’t take things personally.",
+  "advice_reversed": "Address the issue calmly instead of avoiding it."
+},
+{
+  "name": "Six of Wands",
+  "keywords": ["success", "recognition", "victory"],
+  "upright_meaning": "You’re being seen and appreciated.",
+  "reversed_meaning": "Self-doubt or feeling overlooked.",
+  "advice_upright": "Accept the praise—you earned it.",
+  "advice_reversed": "Validate yourself instead of waiting for others."
+},
+{
+  "name": "Seven of Wands",
+  "keywords": ["defense", "boundaries", "standing firm"],
+  "upright_meaning": "You may need to protect your position or beliefs.",
+  "reversed_meaning": "Feeling overwhelmed or wanting to give up.",
+  "advice_upright": "Hold your ground with confidence.",
+  "advice_reversed": "Choose your battles and protect your energy."
+},
+{
+  "name": "Eight of Wands",
+  "keywords": ["movement", "speed", "communication"],
+  "upright_meaning": "Things are moving quickly; momentum is building.",
+  "reversed_meaning": "Delays or miscommunication.",
+  "advice_upright": "Go with the flow and stay flexible.",
+  "advice_reversed": "Slow down and clarify before acting."
+},
+{
+  "name": "Nine of Wands",
+  "keywords": ["resilience", "persistence", "strength"],
+  "upright_meaning": "You’re tired but close to a breakthrough.",
+  "reversed_meaning": "Burnout or feeling defeated.",
+  "advice_upright": "Keep going—you’re stronger than you think.",
+  "advice_reversed": "Rest before you push any further."
+},
+{
+  "name": "Ten of Wands",
+  "keywords": ["burden", "responsibility", "stress"],
+  "upright_meaning": "Carrying too much or taking on extra weight.",
+  "reversed_meaning": "Letting go of unnecessary burdens.",
+  "advice_upright": "Delegate or lighten your load where you can.",
+  "advice_reversed": "Release what isn’t yours to carry."
+},
+{
+  "name": "Page of Wands",
+  "keywords": ["enthusiasm", "exploration", "ideas"],
+  "upright_meaning": "A burst of curiosity or creative excitement.",
+  "reversed_meaning": "Inconsistency or lack of direction.",
+  "advice_upright": "Follow the idea that lights you up.",
+  "advice_reversed": "Ground yourself before starting something new."
+},
+{
+  "name": "Knight of Wands",
+  "keywords": ["action", "passion", "impulse"],
+  "upright_meaning": "Bold movement and fiery motivation.",
+  "reversed_meaning": "Impulsiveness or scattered energy.",
+  "advice_upright": "Channel your passion into focused action.",
+  "advice_reversed": "Pause before acting on impulse."
+},
+{
+  "name": "Queen of Wands",
+  "keywords": ["confidence", "warmth", "independence"],
+  "upright_meaning": "You’re stepping into your power and charisma.",
+  "reversed_meaning": "Insecurity or shrinking yourself.",
+  "advice_upright": "Own your strengths without apology.",
+  "advice_reversed": "Reconnect with what makes you feel confident."
+},
+{
+  "name": "King of Wands",
+  "keywords": ["leadership", "vision", "influence"],
+  "upright_meaning": "Strong leadership and clear direction.",
+  "reversed_meaning": "Controlling behavior or lack of follow-through.",
+  "advice_upright": "Lead with clarity and inspiration.",
+  "advice_reversed": "Step back and reassess your approach."
 }
+
+}
+
 
   }
 ]
